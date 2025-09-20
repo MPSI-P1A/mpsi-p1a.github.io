@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "MPSI P1A"
+  navbar:
+    background: "#447099"
+    left:
+      - href: CoursMaths/index.qmd
+        text: "Mathématiques"
+      - href: CoursInfo/index.qmd
+        text: "Informatique"
+        
+format:
+  html:
+    theme:
+      dark: solar
+      light: cosmo
+    css: styles.css

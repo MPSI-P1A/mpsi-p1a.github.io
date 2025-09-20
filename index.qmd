@@ -1,0 +1,7 @@
+---
+title: "MPSI P1A "
+description: "Mathématiques et informatique"
+author: ""
+format: html
+from: markdown+emoji
+---

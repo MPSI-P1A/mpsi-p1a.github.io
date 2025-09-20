@@ -1,0 +1,8 @@
+### Problème d'analyse 1 : [Intégrales et irrationnalité du nombre $e$](./Doc/Pb1_Irrationalite_e.pdf){target="_blank"}
+
+
+### Problème d'analyse 2 : [Suites adjacentes et irrationnalité du nombre $e$](./Doc/Pb2_Irrationalite_e.pdf){target="_blank"}
+
+### Fiche d'exercice [Logique, ensembles et raisonnements](./Doc/Fiche1_Logique_Ensembles_Raisonnements.pdf){target="_blank"}
+
+### Colles : [Progamme semaine 39 et 40](./Doc/Programme_colles_semaine_39_40.pdf){width=100% height=475px}
